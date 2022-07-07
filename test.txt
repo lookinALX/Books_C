@@ -1,0 +1,10 @@
+133;Programming in C++;19.99
+324;Programming in C;29.99
+532;Programming in D;39.99
+521;Programming in Python;49.99
+104;Programming in C#;59.99
+133;Programming in C++;19.99
+324;Programming in C;29.99
+532;Programming in D;39.99
+521;Programming in Python;49.99
+104;Programming in C#;59.99
